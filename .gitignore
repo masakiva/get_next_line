@@ -1,0 +1,7 @@
+main.c
+.DS_Store
+*.o
+a.out*
+42TESTERS-GNL
+*.swp
+test*
