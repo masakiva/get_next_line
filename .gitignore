@@ -2,6 +2,6 @@ main.c
 .DS_Store
 *.o
 a.out*
-42TESTERS-GNL
 *.swp
 test*
+notes_testeurs.txt
